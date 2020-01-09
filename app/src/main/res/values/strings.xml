@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Chatter</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="register">register</string>
+    <string name="email">Email</string>
+    <string name="login">Have an account? Login</string>
+    <string name="no_users">No users found</string>
+    <string name="write">Write message...</string>
+</resources>
